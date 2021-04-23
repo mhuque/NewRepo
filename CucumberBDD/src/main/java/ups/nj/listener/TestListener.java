@@ -16,7 +16,7 @@ public class TestListener implements ITestListener {
 
 	@Override
 	public void onTestSuccess(ITestResult result) {
-		System.out.println("I  am in onSuccess method  :"+ result.getName());	
+		System.out.println("I  am in onSuccess method edit :"+ result.getName());	
 		
 	}
 
