@@ -372,3 +372,19 @@
 2021-04-23 17:07:46,710 [main] INFO Zoopla Automation - ******** > User click on the signing button < ***********
 2021-04-23 17:07:46,722 [main] INFO Zoopla Automation - ******** > User able to verify successfully login & verify the homepage title < ***********
 2021-04-23 17:07:48,727 [main] INFO Zoopla Automation - ******** > User able to take screen shot for verfy the homepage < ***********
+2021-04-24 13:59:48,686 [main] INFO Zoopla Automation - ********** > Test excuted with chrome browser  < ***********
+2021-04-24 13:59:50,301 [main] INFO Zoopla Automation - ******** > User able to enter URL  < ***********
+2021-04-24 13:59:51,561 [main] INFO Zoopla Automation - ******** > User able click on Accept the cookies < ***********
+2021-04-24 13:59:51,758 [main] INFO Zoopla Automation - ******** > User able to click on the login button < ***********
+2021-04-24 13:59:52,759 [main] INFO Zoopla Automation - ******** > User enter the userName & Peassword < ***********
+2021-04-24 13:59:52,963 [main] INFO Zoopla Automation - ******** > User click on the signing button < ***********
+2021-04-24 13:59:52,985 [main] INFO Zoopla Automation - ******** > User able to verify successfully login & verify the homepage title < ***********
+2021-04-24 13:59:55,003 [main] INFO Zoopla Automation - ******** > User able to take screen shot for verfy the homepage < ***********
+2021-04-25 01:16:07,979 [main] INFO Zoopla Automation - ********** > Test excuted with chrome browser  < ***********
+2021-04-25 01:16:09,623 [main] INFO Zoopla Automation - ******** > User able to enter URL  < ***********
+2021-04-25 01:16:11,459 [main] INFO Zoopla Automation - ******** > User able click on Accept the cookies < ***********
+2021-04-25 01:16:11,605 [main] INFO Zoopla Automation - ******** > User able to click on the login button < ***********
+2021-04-25 01:16:12,224 [main] INFO Zoopla Automation - ******** > User enter the userName & Peassword < ***********
+2021-04-25 01:16:12,594 [main] INFO Zoopla Automation - ******** > User click on the signing button < ***********
+2021-04-25 01:16:12,618 [main] INFO Zoopla Automation - ******** > User able to verify successfully login & verify the homepage title < ***********
+2021-04-25 01:16:14,628 [main] INFO Zoopla Automation - ******** > User able to take screen shot for verfy the homepage < ***********
